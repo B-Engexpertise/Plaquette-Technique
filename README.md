@@ -1,2 +1,2 @@
 # Plaquette-Technique
-Vocii la palquette technqiue de B-Eng
+Voici la palquette technqiue de B-Eng
